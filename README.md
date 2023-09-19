@@ -11,4 +11,7 @@ In order to use:
 6. The transcription (including the diarization - separation by speakers) will be shown in the last cell
 7. The SRT and TXT files will be available for download in the sidebar (under main folder)
 
+Please note: GPU units may be neccessary for running this! If you don't have any GPU units, you may get error of CUDA: Out of memory!
+Make sure to select GPU Runtime, and if possible - turn on "high RAM".
+
 If using please make sure to citate Yuval Avidani @HACKIT.CO.IL
